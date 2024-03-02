@@ -1,29 +1,19 @@
-var teste = 1;
+console.log("Hello World!");
 
-var meuPrimeiroNome = "Jhosephe";
+console.log("Hello New World!");
 
-console.log(teste);
+// declara uma variável
+var a = 1;
 
-teste = "Thierry";
+a = "Teste";
 
-console.log(teste);
+console.log(a);
 
-console.log(meuPrimeiroNome);
+// este é um comentário
 
-let testando = 1;
-
-const ola = 2;
-
-console.log(testando);
-
-console.log(ola);
-
-var meuNome;
-
-console.log(meuNome);
-
-meuNome = "Jhosephe";
-
-console.log(meuNome);
-
-var meuNome = "Jhosephe";
+/* 
+este 
+é 
+um 
+comentário
+*/
