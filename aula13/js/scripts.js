@@ -9,7 +9,7 @@ if(idade <= 17) {
     console.log("acesso bloqueado.");
 }
 
-var nome = "Jhosephe"
+var nome = "Jhosephe Thierry"
 
 if(nome == "Jhosephe") {
     console.log("Seu nome é Jhosephe.")
